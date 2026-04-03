@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM : 
 To write a Python program to print the size of a dictionary using `getsizeof()` from the `sys` module.
 
 ---
